@@ -4,7 +4,7 @@ import random
 import time
 from datetime import datetime
 
-ciphered_net_id = "84:27:49:1H:21:71"
+ciphered_bssid = "84:27:49:1H:21:71"
 
 CITIES = ["NYC", "LON", "FRA", "AMS", "VNO", "WAW", "STO", "TYO",
           "SIN", "SYD", "SFO", "CHI", "PAR", "MAD", "DXB", "MUM"]
